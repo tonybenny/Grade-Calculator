@@ -31,7 +31,7 @@ printf("Invalid Entry");
 }
 else
 {
-printf ("You got Grade D");
+printf ("You got Grade F");
 }
 }
 return 0;
